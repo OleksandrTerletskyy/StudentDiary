@@ -13,5 +13,5 @@ In order to start :
 * Run create and insert sql scripts in StudentDiary.Database project
 * Change connection string in app.config file (StudentDiary.UI project)
 
-login : user1
+login: user1 
 password: 12345
